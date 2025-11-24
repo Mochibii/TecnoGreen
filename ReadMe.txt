@@ -1,7 +1,7 @@
-Gestão de Configuração de Software 
+ Gestão de Configuração de Software 
 
 1 - GitHub - Repositório
 https://github.com/Mochibii/TecnoGreen-Econecta/tree/main
 
 2 - Jira - Econecta
-
+Sem acesso para externos
